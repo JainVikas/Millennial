@@ -15,7 +15,7 @@ menu:
 - {name: 'Learn Python', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Deep Learning', folder: 'pages', file: 'documentation.html'}
 - {name: 'AI', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'About', folder: 'pages', file: 'contact.html'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/vikasjain_91'}
