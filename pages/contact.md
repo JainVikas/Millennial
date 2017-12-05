@@ -3,7 +3,7 @@ layout: misc
 title: About
 ---
  
-Welcome to StudyML.  
+##Welcome to StudyML.  
 The thought behind creating this platform to share my knowledge about the Machine Learning and AI with everyone and at the same time demystify the Machine Learning and AI. 
 Over the last couple of years, you must have heard how ML and AI will take over and how the jobs might go away because of it. We all worry about the AI apocalypse, AI takeover, Skynet. Some renowned public figures have also expressed their concern with AI and some, on the other hand, have embraced the AI power as a tool to provide better services and solve human problems which otherwise could take years of research and resources. 
  
@@ -16,4 +16,5 @@ So if you are worried about your jobs, I would say ride the AI tide and reskill 
 
 I for myself have started learning about Machine Learning, AI, Data science over the last year, June 2016 to be exact. 
 To give a little background about me. I was a 6 pointer in my graduation, post that struggled for 6 months to get a job, started as manual tester in 2013 with almost no coding exprience and yet here I am. 
+
 So believe me when i say, you can do it too. Happy Learning!!
