@@ -24,6 +24,6 @@ social:
 - {icon: 'envelope', link: 'mailto:vikasjain081291@live.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
 
-google-ID: UA-110688521-1
+google-ID: 'UA-110688521-1'
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
