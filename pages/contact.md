@@ -3,7 +3,7 @@ layout: misc
 title: About
 ---
  
-##Welcome to StudyML.  
+Welcome to StudyML.  
 The thought behind creating this platform to share my knowledge about the Machine Learning and AI with everyone and at the same time demystify the Machine Learning and AI. 
 Over the last couple of years, you must have heard how ML and AI will take over and how the jobs might go away because of it. We all worry about the AI apocalypse, AI takeover, Skynet. Some renowned public figures have also expressed their concern with AI and some, on the other hand, have embraced the AI power as a tool to provide better services and solve human problems which otherwise could take years of research and resources. 
  

@@ -10,12 +10,12 @@ disqus:
   disqus_shortname: 'vikasjain91'
 
 menu:
-- {name: 'Learn ML', folder: 'pages', file: 'facts.html'}
-- {name: 'Learn R', folder: 'pages', file: 'resources.html'}
-- {name: 'Learn Python', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Deep Learning', folder: 'pages', file: 'documentation.html'}
-- {name: 'AI', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'ML Algorithms', folder: 'pages', file: 'ML.html'}
+- {name: 'Learn R', folder: 'pages', file: 'rprogramming.html'}
+- {name: 'Learn Python', folder: 'pages', file: 'python.html'}
+- {name: 'Deep Learning', folder: 'pages', file: 'deeplearning.html'}
+- {name: 'AI', folder: 'pages', file: 'ai.html'}
+- {name: 'Contact Me', folder: 'pages', file: 'contact.html'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/vikasjain_91'}
