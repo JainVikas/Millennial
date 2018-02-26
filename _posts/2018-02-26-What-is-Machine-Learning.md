@@ -2,7 +2,7 @@
 layout: post
 title: "What is Machine Learning"
 author: "Vikas Jain"
-categories: Machine learning
+categories: ML
 tags: [Machine learning, ML]
 image: city-1.jpg
 ---
