@@ -7,9 +7,8 @@ tags: [Machine learning, ML]
 image: city-1.jpg
 ---
 
-## So What is Machine learning?
-
 As per wikipedia, the defination of machine learning is "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E."
+
 Yeah it is too technical, let's try to break it down in simple terms with an example.
 
 Let's imagine you are a robot, not that you are one, now go back to your childhood, as an infant you knew nothing about this world forget about world you didn't even know how to speak, walk, run and as you grow up you became aware of that but still didn't know how to ride a bicycle, motorcycle or a car for that matter.
