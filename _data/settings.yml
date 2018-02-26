@@ -10,7 +10,7 @@ disqus:
   disqus_shortname: 'vikasjain91'
 
 menu:
-- {name: 'ML Algorithms', folder: 'pages', file: 'ML.html'}
+- {name: 'Machine learning', folder: 'pages', file: 'ML.html'}
 - {name: 'Learn R', folder: 'pages', file: 'rprogramming.html'}
 - {name: 'Learn Python', folder: 'pages', file: 'python.html'}
 - {name: 'Deep Learning', folder: 'pages', file: 'deeplearning.html'}
