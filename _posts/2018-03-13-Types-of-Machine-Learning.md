@@ -12,9 +12,8 @@ In last post we talked about what is machine learning? And as mentioned in this 
 There are 3 types of Machine learning:
 1. Supervised learning,
 2. Unsupervised learning,
-3. Reinforcement learning  
-
-
+3. Reinforcement learning </br>
+ 
 ## Supervised learning
 In supervised learning we have labelled data set. for example, let's say you have been given the task to sort the coins that you have. Now since each of the coin is labelled you can understand that a coin of 1 rupees is smaller in size than that of 2 and similarly the design pattern is different too and while 1 and 5 rupees coins roughly has same size the width of 5 rupees coin is more. So, you learn about these features based on the observation that you made during initial sorting of these coins. now if I had to give you a coin and ask whether it is 1,2 or 5 without looking at the labels you can easily do that.
 
