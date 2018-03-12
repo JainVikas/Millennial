@@ -12,18 +12,16 @@ In last post we talked about what is machine learning? And as mentioned in this 
 There are 3 types of Machine learning:
 1. Supervised learning,
 2. Unsupervised learning,
-3. Reinforcement learning.
+3. Reinforcement learning
 
 
 ## Supervised learning
-
 In supervised learning we have labelled data set. for example, let's say you have been given the task to sort the coins that you have. Now since each of the coin is labelled you can understand that a coin of 1 rupees is smaller in size than that of 2 and similarly the design pattern is different too and while 1 and 5 rupees coins roughly has same size the width of 5 rupees coin is more. So, you learn about these features based on the observation that you made during initial sorting of these coins. now if I had to give you a coin and ask whether it is 1,2 or 5 without looking at the labels you can easily do that.
 
 Same process goes when you have to decide whether a fruit is Orange or apple, from our past experiences in our childhood we all have learnt that oranges are orange is colour and have a bumpy texture on outer layer and are squishy while at the same time an apple has red colour (generally, there are different type of apples too, we are talking about red apples), the outer layer skin is quite smooth and they are quit firm compared to oranges.
 
 
 ## Unsupervised learning
-
 Now we noticed how supervised learning worked, but think for a moment, if those coins were not labelled when you were initially sorting them and learning about their features, would you still be able to sort them out with correct labels (note: this is considering you have no prior knowledge on how 1,2 or 5 rupees coin looks or what is it size, as a system you have ever seen them). Or lets you have never seen apples or oranges and I give you a bucket full of both, would you be able to identify which one is apple or orange.
 Possibly not, but you would certainly be able to divide them into 2 groups in case of fruits and in 3 groups for coins by looking at their features, while we still don't know whether group 1 is orange or not. we can see that the machine is able to learn the features and divide them in separate groups without any supervision or labelled dataset.
 
