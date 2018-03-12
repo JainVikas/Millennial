@@ -10,9 +10,9 @@ image: machine-learning.jpg
 In last post we talked about what is machine learning? And as mentioned in this post we will be talking about different types of Machine learning.
 
 There are 3 types of Machine learning:
-  1. Supervised learning,
-  2. Unsupervised learning,
-  3. Reinforcement learning.
+1. Supervised learning,
+2. Unsupervised learning,
+3. Reinforcement learning.
 
 
 ## Supervised learning
