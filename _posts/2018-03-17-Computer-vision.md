@@ -28,17 +28,13 @@ Example 1:
 
 Here just by looking at this image, within less than even a sec, you can tell that there are 4 children, 2 are wearing cap, they are playing.
 
-Example 2: ![](https://cdn.pixabay.com/photo/2017/09/16/14/09/children-2755601_960_720.jpg)
-
-The same goes for this pic as well. You can tell that they are in park, 1 boy, 2 girls, 1 girl is walking away, and they are making bubbles during game.
-
-Example 3: ![](http://themediaonline.co.za/wp-content/uploads/2018/01/2010_Malaysian_GP_opening_lap.jpg)
+Example 2: ![](http://themediaonline.co.za/wp-content/uploads/2018/01/2010_Malaysian_GP_opening_lap.jpg)
 
 This is my favourite example I guess, just like other if you even look for just 1 sec, you can tell the following things very easily.
 
-1. It is a racing event
-2. The car in the front is the car in lead
-3. They all are going in same direction
+1. It is a racing event,
+2. The car in the front is the car in lead,
+3. They all are going in same direction,
 4. If the direction was to be reversed but not car position, the last car in the image will become the lead car.
 
 
@@ -52,12 +48,14 @@ When you look at an image your brain receives rays of light as input and process
 And this is a challenging problem, because given that everything remains same, even you change the angle on camera those values will change quite rapidly and in near world scenario not only the camera angle but light, colours and many other factors makes it even hard to build a generalized system.
 
 some of the challenges are listed below:
-* Illumination: Different lighting condition will change the pixel values.
-* Deformation: What if something is broken, you can still identify a broken car to be a car.
-* Occlusion: In case you can't see the whole object, say you saw a fin while swimming in ocean, you didn't see any shark, but you still identify the shark and run away from there.
-* Background clutter: We can still do a pretty good job, even if the object in discussion is somewhat mixed up with background.
-* Intraclass variation: Are you buying a chair? Not all chairs are same though.
+* **Illumination**: Different lighting condition will change the pixel values.
+* **Deformation**: What if something is broken, you can still identify a broken car to be a car.
+* **Occlusion**: In case you can't see the whole object, say you saw a fin while swimming in ocean, you didn't see any shark, but you still identify the shark and run away from there.
+* **Background clutter**: We can still do a pretty good job, even if the object in discussion is somewhat mixed up with background.
+* **Intraclass variation**: Are you buying a chair? Not all chairs are same though.
 
+                                                                                                                             
+  
 ## Solutions
 If you are following the news, you know that despite these challenges in some limited situation the current technology outperforms human and takes very less time once we have trained a system.
 
@@ -73,6 +71,9 @@ A very basic pipeline for this task will look as follows.
 1. Collect dataset of images and labels
 2. Use Machine learning to train a classifier
 3. Evaluate trained classifier using new images.
+
+    
+    
 
 ### How does this work, you ask?
 We will be exploring both a simple method and deep learning as well.
