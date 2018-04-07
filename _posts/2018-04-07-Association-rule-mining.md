@@ -2,8 +2,8 @@
 layout: post
 title: "Associative Rule Mining/ Frequent Patterns Mining"
 author: "Vikas Jain"
-categories: deeplearning 
-tags: [Machine learning, ML, deeplearning, Deep Learning]
+categories: ML 
+tags: [Machine learning, ML]
 image: cuba-4.jpg
 ---
 
